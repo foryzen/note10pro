@@ -1,0 +1,65 @@
+.mpr {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+.div-01 {
+    width: 40em;
+    height: 100em;
+}
+
+.heading {
+    margin-bottom: 5em;
+}
+
+.img-01 {
+    padding-top: 3em;
+}
+
+.div-04 {
+    display: flex;
+}
+
+.a1 {
+    margin-left: 8em;
+    color: rgb(23, 156, 0);
+    text-decoration: none;
+}
+
+.a2 {
+    margin: 20px 0 20px 0;
+    font-size: 20px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+.h1-02 {
+    font-weight: 400;
+    border-bottom: 2px solid white;
+    transition-duration: 500ms;
+}
+
+.h1-02:hover {
+    border-bottom: 2px solid blue;
+}
+
+.div-03 {
+    display: flex;
+}
+
+p {
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+.span-red {
+    color: red;
+    font-weight: 700;
+}
+
+.img-10 {
+    border: 2px solid gray;
+}
+
+.p1 {
+    padding-left: 1em;
+    border-left: 4px solid lightblue;
+}

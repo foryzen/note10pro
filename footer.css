@@ -1,0 +1,23 @@
+/* footer-div */
+
+.footer-div-01 {
+    border-top: solid 1px lightgray;
+    margin: 10em 3em 0 3em;
+}
+
+.footer-div-03 {
+    text-align: right;
+    margin: 0;
+    padding: 2em 0 2em 0;
+}
+
+.footer-h1-02 {
+    /* Copy right */
+    font-size: 20px;
+    color: gray;
+    display: inline-block;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-weight: 300;
+    justify-content: right;
+    margin: 0 1em 0 0;
+}
